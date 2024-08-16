@@ -1,5 +1,5 @@
 {
-  "name": "taskly",
+  "name": "task",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,9 @@
     "dev": "nodemon src/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Edidiong Okon Hanson",
   "license": "ISC",
-  "description": "Task management application",
+  "description": "Taskly management application",
   "dependencies": {
     "@stoplight/elements": "^8.3.3",
     "bcryptjs": "^2.4.3",
